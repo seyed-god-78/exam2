@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It is my share txt file
+=======
+It is my new shre file 2
+>>>>>>> login-feature
